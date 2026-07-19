@@ -19,7 +19,6 @@ If you're going to use this as review/learning material, take *everything* here 
 
 ---
 
-RUNNING A TEST. RUNNING A TEST. RUNNING A TEST.
 
 
 
