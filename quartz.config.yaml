@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: mynotes.github.io
+  baseUrl: scrambldeggs.github.io/Linguistics-Notes-App
   ignorePatterns:
     - private
     - templates
