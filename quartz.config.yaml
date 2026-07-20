@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: Tim's Notes Library
+  pageTitleSuffix: " | Tim's Notes Library"
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -32,10 +32,10 @@ configuration:
         textHighlight: "#fff23688"
       darkMode:
         light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
+        lightgray: "#161618"
+        gray: "#161618"
+        darkgray: "#161618"
+        dark: "#161618"
         secondary: "#7b97aa"
         tertiary: "#84a59d"
         highlight: rgba(143, 159, 169, 0.15)
