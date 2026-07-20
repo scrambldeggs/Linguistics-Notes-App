@@ -228,7 +228,14 @@ plugins:
         GitHub: https://github.com/jackyzha0/quartz
         Discord Community: https://discord.gg/cRFFHYye7t
   - source: github:quartz-community/recent-notes
-    enabled: false
+    enabled: true
+    options:
+      title: "Recently Added"
+      limit: 5
+      showTags: true
+    layout:
+      position: right
+      priority: 30
   - source: github:quartz-community/spacer
     enabled: true
     options: {}

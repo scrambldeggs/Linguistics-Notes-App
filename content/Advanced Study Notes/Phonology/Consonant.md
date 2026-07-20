@@ -36,9 +36,9 @@ but for me, it's not really that helpful (the guy pronouncing does kind of a bad
 
 ## **Plosives:**
 
-## **Nasals:
+## **Nasals:**
 
-## **Trills:
+## **Trills:**
 
 ## **Taps or Flaps:**
 
