@@ -15,9 +15,6 @@
 -> As a side note, lips aren't the only way to block air out of your mouth and create plosive. A plosive is, again, the **Manner of articulation**. Which body part you use would be the **Place of articulation.** (A consonant produced using your lips will either be Bilabial (/p, b/) or Labiodental (/f, v/)) 
 
 -> Fun fact, a "monolabial" sound (meaning a sound produced with only one lip, not touching any other part of your mouth) is **phonetically impossible**. Try it, lol.
-
-*to dive deeper in how to pronounce **each** plosive in the IPA chart, click [[Consonant#**Plosive**s|here]]*
-
 ## **Nasal
 - **Nasal consonants** are made by lowering the soft palate (velum), allowing air to escape freely through the nose while the mouth is completely blocked. 
 - This is somewhat difficult to understand if you don't know where your soft palate is and how it feels when you certain words. But try closing your mouth, put a finger just below your nose, on top of your upper lip, and say /m/ or /η/ (ng), a gentle breeze should blow through your nose onto your finger. 
@@ -26,7 +23,6 @@
 
 ![[Nasals.png]]
 
-*to dive deeper in how to pronounce **each** nasal in the IPA chart, click [[Consonant#**Nasals|here]]*
 ## Trill
 - **Trilled consonants** are made by rapidly vibrating a certain organ to produce sound.
 - This is done by placing an **active [[Articulators|articulator]]** (the movable structures in the mouth that configure the vocal tract) near **another, either active or passive, articulator** (passive articulators are stationary organs that active articulators move towards.) and vibrating them together with air.
@@ -35,8 +31,6 @@
 - This is not to be confused with trills not "existing" within English spaces. Some trills can become [[allophones]] for some English accents. 
 - Trills can also serve as what's called an "Extralinguistic Gesture" (Paralanguage), meaning they can express emotion, attitude, or social meaning, but cannot be classified into a sentence, noun, verb, or adjective.
 - Trills can also serve as onomatopoeia or ideophones. Words that imitate or simulate sounds heard from real-world circumstances.
-
-*to dive deeper in how to pronounce **each** trill in the IPA chart, click [[Consonant#**Trills|here]]*
 ## **Tap or Flap**
 - Tap or Flap consonants are made by a single, rapid muscular contraction where the tongue briefly strikes the roof of the mouth, usually the alveolar ridge. 
 - The only Tap or Flap consonant that exists within the English language is the **Voiced Alveolar Tap/Flap**. This is the sound found in "wa(t)er", sounding like a short /r/ (voiced alveolar trill)
@@ -44,15 +38,12 @@
 
 ![[Trills vs Taps.png|406]]
 
-to dive deeper in how to pronounce **each** tap or flap in the IPA chart, click [[Consonant#**Taps or Flaps**|here]]
 ## **Fricatives**
 - Fricatives are consonant sounds produced by forcing air through a narrow passage in the vocal tract. This creates a continuous, turbulent stream of air that produces an audible hissing or buzzing noise.
 - **Fun Fact:** Every [[Place of Articulation]] has a voiced and voiceless fricative associated with it! 
 
 ![[Fricatives.png|590]]
 *Fricative Phonemes*
-
-to dive deeper in how to pronounce **each** fricative in the IPA chart, click [[Consonant#**Fricatives **|here]]
 
 ## Lateral Fricative 
 - A lateral fricative is a speech sound produced by blocking air in the center of the mouth while allowing it to escape with audible friction (hissing) over one or both sides of the tongue.

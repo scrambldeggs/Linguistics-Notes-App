@@ -6,7 +6,7 @@ Here are the IPA's official charts for English consonants and vowels.
 **IPA [[Consonant]] Chart**
 ![[IPA Consonant Chart.png|600]]
 
-**IPA Vowel Trapezoid Chart**
+**IPA [[Vowel]] Trapezoid Chart**
 ![[IPA Vowel Trapezoid Chart.png]]
 
 A link to the IPA's interactive chart: http://ipachart.com/
