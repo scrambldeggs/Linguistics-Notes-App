@@ -1,11 +1,11 @@
 ---
 title: Welcome!
 ---
-Hi! This is a page that contains the notes that I've written over the course of my advanced studying for Introduction to Linguistics.
+Hi! This is a website where I share all my notes in my learning journey at FEU Manila. 
 
-So far, I've only completed the consonant half of the IPA Chart, under Phonetics. But this website updates with my notes as I add more and more content to my digital notebook.
+So far, we're still in the adjustment period, and I'm so excited to be delving into deeper and deeper topics in each course I'm taking! 
 
-If you're going to use this as review/learning material, take *everything* here with a grain of salt. I am not the author of any textbook for school, I'm not a qualified linguist. I am just a student. All of my sources are from Google searches, YouTube videos, and/or widely recognized IPA pronunciation charts or symbol libraries.
+I'm hoping that posting my notes will help me keep and improve my study habits so I can achieve my goal of graduating with Latin honors :)
 
 **Thanks for stopping by. If you read some of my notes here today, I'm very honored to have shared my knowledge with you!**
 
